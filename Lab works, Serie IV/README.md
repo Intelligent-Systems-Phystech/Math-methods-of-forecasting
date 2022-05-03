@@ -1,10 +1,10 @@
 # Lab works, Serie IV
-## [Task](http://www.machinelearning.ru/wiki/index.php?title=Математические_методы_прогнозирования_%28лекции%2C_А.В._Грабовой%2C_В.В._Стрижов%29/Осень_2021#Lab_works.2C_Serie_IV)
-## [Colab version](https://drive.google.com/file/d/1IPUgT-L0t5TF0vwqMoXShIgUVHutakPD/view?usp=sharing)
+### [Task](http://www.machinelearning.ru/wiki/index.php?title=Математические_методы_прогнозирования_%28лекции%2C_А.В._Грабовой%2C_В.В._Стрижов%29/Осень_2021#Lab_works.2C_Serie_IV)
+### [Colab version](https://drive.google.com/file/d/1IPUgT-L0t5TF0vwqMoXShIgUVHutakPD/view?usp=sharing)
 
 The model generation and model forecasting. The goal is to hold an experiment to forecast a structure of an optimal model, given dataset.
 
-### List of modules (Problems)
+#### List of modules (Problems)
 1. Class Model carries trivial methods
 2. Select optimal model from the generated set
 3. Check the model
@@ -18,12 +18,12 @@ The model generation and model forecasting. The goal is to hold an experiment to
 11. Plot the distance maps
 12. Collect and analyse the errors
 
-### Each module is responsible for
+#### Each module is responsible for
 1. communication with neighbour models (input and output arguments)
 2. acting on the whole system.
 3. Each module runs the system!
 
-### The report consists of
+#### The report consists of
 1. Module description
 2. Module test
 3. Results of the module (highly depends on the nature of the module )

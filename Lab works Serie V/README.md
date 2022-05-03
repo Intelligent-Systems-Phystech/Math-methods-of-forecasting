@@ -1,6 +1,8 @@
-# Lab works, Serie IV
-## [Task](http://www.machinelearning.ru/wiki/index.php?title=Математические_методы_прогнозирования_%28лекции%2C_А.В._Грабовой%2C_В.В._Стрижов%29/Осень_2021#Lab_works.2C_Serie_V)
-## [Colab version](https://colab.research.google.com/drive/1e3v43tbnBT10QTcb_waVkYpcJ3zcpcFC?usp=sharing)
+# [2021-Time-series-forecasting](http://www.machinelearning.ru/wiki/index.php?title=Математические_методы_прогнозирования_%28лекции%2C_А.В._Грабовой%2C_В.В._Стрижов%29/Осень_2021)
+
+#### [Lab works, main page](../README.html)
+#### [Lab works, Serie IV](../Lab%20works%20Serie%20IV/README.html)
+#### **Lab works, Serie V** [(Colab code)](https://colab.research.google.com/drive/1e3v43tbnBT10QTcb_waVkYpcJ3zcpcFC?usp=sharing)
 
 The goal of the lab set is to join several, possible simple modules using joint efforts and information exchange. The following modules make the system work. PLS scheme
 

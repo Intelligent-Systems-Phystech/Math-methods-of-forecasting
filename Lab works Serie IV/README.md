@@ -1,6 +1,8 @@
-# Lab works, Serie IV
-## [Task](http://www.machinelearning.ru/wiki/index.php?title=Математические_методы_прогнозирования_%28лекции%2C_А.В._Грабовой%2C_В.В._Стрижов%29/Осень_2021#Lab_works.2C_Serie_IV)
-## [Colab version](https://drive.google.com/file/d/1IPUgT-L0t5TF0vwqMoXShIgUVHutakPD/view?usp=sharing)
+# [2021-Time-series-forecasting](http://www.machinelearning.ru/wiki/index.php?title=Математические_методы_прогнозирования_%28лекции%2C_А.В._Грабовой%2C_В.В._Стрижов%29/Осень_2021)
+
+#### [Lab works, main page](../README.html)
+#### **Lab works, Serie IV** [(Colab code)](https://drive.google.com/file/d/1IPUgT-L0t5TF0vwqMoXShIgUVHutakPD/view?usp=sharing)
+#### [Lab works, Serie V](../Lab%20works%20Serie%20V/README.html)
 
 The model generation and model forecasting. The goal is to hold an experiment to forecast a structure of an optimal model, given dataset.
 

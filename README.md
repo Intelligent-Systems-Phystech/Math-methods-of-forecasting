@@ -1,13 +1,8 @@
-<<<<<<< HEAD
 # [2021-Time-series-forecasting](http://www.machinelearning.ru/wiki/index.php?title=Математические_методы_прогнозирования_%28лекции%2C_А.В._Грабовой%2C_В.В._Стрижов%29/Осень_2021)
 
 #### **Lab works, main page**
 #### [Lab works, Serie IV](Lab%20works%20Serie%20IV/README.html)
 #### [Lab works, Serie V](Lab%20works%20Serie%20V/README.html)
-=======
-# 2021-Time-series-forecasting
-### [Main link](http://www.machinelearning.ru/wiki/index.php?title=Математические_методы_прогнозирования_%28лекции%2C_А.В._Грабовой%2C_В.В._Стрижов%29/Осень_2021)
->>>>>>> 06fbadf3d39e195fcafef5137a94b8d32c36b7b8
 
 ### Grading
 * Questionnaires during lectures (4)

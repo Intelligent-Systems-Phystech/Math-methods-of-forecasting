@@ -1,5 +1,5 @@
 # 2021-Time-series-forecasting
-## [Main link](http://www.machinelearning.ru/wiki/index.php?title=Математические_методы_прогнозирования_%28лекции%2C_А.В._Грабовой%2C_В.В._Стрижов%29/Осень_2021)
+### [Main link](http://www.machinelearning.ru/wiki/index.php?title=Математические_методы_прогнозирования_%28лекции%2C_А.В._Грабовой%2C_В.В._Стрижов%29/Осень_2021)
 
 ### Grading
 * Questionnaires during lectures (4)

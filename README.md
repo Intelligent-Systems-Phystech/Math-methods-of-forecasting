@@ -8,10 +8,10 @@ Fall semester of 2022
 * SSA forecasting
 * Forecasting protocols and verification (before AR)
 * Autoregression
-* Singular values decomposition
+* Singular values decomposition (PCA, AE)
 * Auto, corss-correlation (?cointegration)
 * Diagrams for ML and PLS (Before PLS)
-* Projection to latent space, canonical-correlation analysis
+* Projection to latent space (and relation to PCA), canonical-correlation analysis
 * Higer-order SSA
 * Tensor decomposition
 * HOPLS
@@ -24,6 +24,13 @@ Fall semester of 2022
 * Flows and forecasting
 * Space state models 
 * S4, Hippo, SaShiMi models
+
+Extra
+* Directional regression
+* Harmonic functions
+* Phase extraction
+* Non-parametric regression (+ customer demands forecasting)
+* Graph (earth prediction) 
 
 ## Lab works
 * Find your data

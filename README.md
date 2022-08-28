@@ -9,7 +9,7 @@ Fall semester of 2022
 * Forecasting protocols and verification (before AR)
 * Autoregression
 * Singular values decomposition
-* Auto, corss-correlation
+* Auto, corss-correlation (?cointegration)
 * Diagrams for ML and PLS (Before PLS)
 * Projection to latent space, canonical-correlation analysis
 * Higer-order SSA
@@ -17,11 +17,13 @@ Fall semester of 2022
 * HOPLS
 * Granger causality test
 * Convergent cross mapping
-* HOCCM
+* HOCCM (materials?)
 * Takens theorem
 * Neural ODE
 * Ajoint and backpropagation
 * Flows and forecasting
+* Space state models 
+* S4, Hippo, SaShiMi models
 
 ## Lab works
 * Find your data

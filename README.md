@@ -1,6 +1,32 @@
 # Mathematical methods of forecasting
 Fall semester of 2022
 
+## Topics 
+* Energy forecasting example
+* Regression 
+* Singular spectrum analysis
+* SSA forecasting
+* Forecasting protocols and verification (before AR)
+* Autoregression
+* Singular values decomposition
+* Auto, corss-correlation
+* Diagrams for ML and PLS (Before PLS)
+* Projection to latent space, canonical-correlation analysis
+* Higer-order SSA
+* Tensor decomposition
+* HOPLS
+* Granger causality test
+* Convergent cross mapping
+* HOCCM
+* Takens theorem
+* Neural ODE
+* Ajoint and backpropagation
+* Flows and forecasting
+
+## Lab works
+* Find your data
+* 
+
 
 ## Sillabus
 * [This course](https://is-mipt.site/ru/course/forecasting_methods/index.html) 

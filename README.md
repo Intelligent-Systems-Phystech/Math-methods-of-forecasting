@@ -35,5 +35,6 @@ Fall semester of 2022
 5. Analysis and illustrative plots
 7. References
 
+[Edit](https://github.com/Intelligent-Systems-Phystech/Math-methods-of-forecasting.github.io/edit/master/README.md)
 
-## [Edit](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/_i18n/ru/_course/forecasting_methods.md)
+

@@ -27,7 +27,8 @@ This course delivers methods of model selection in machine learning and forecast
 * Space state models 
 * S4, Hippo, SaShiMi models
 
-Extra
+To include
+* RNN, LSTM, attention, transformer models 
 * Directional regression
 * Harmonic functions
 * Phase extraction

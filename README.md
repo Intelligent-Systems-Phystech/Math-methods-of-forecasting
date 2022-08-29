@@ -1,5 +1,7 @@
-# Mathematical methods of forecasting
-Fall semester of 2022
+## Fall semester of 2022
+This course delivers methods of model selection in machine learning and forecasting. The modelling data are videos, audios, encephalograms, fMRIs and another measurements in natural science. The models are linear, tensor, deep neural networks, and neural ODEs. The practical examples are brain-computer interfaces, weather forecasting and various spatial-time series forecasting. The lab works are organised as paper-with-code reports.
+<!-- # Mathematical methods of forecasting -->
+
 
 ## Topics 
 * Energy forecasting example

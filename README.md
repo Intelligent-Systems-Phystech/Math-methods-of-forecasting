@@ -4,18 +4,21 @@ This course delivers methods of model selection in machine learning and forecast
 
 
 ## Topics 
-* Energy forecasting example
+* Energy forecasting exampl
 * Regression 
 * Singular spectrum analysis
 * SSA forecasting
 * Forecasting protocols and verification (before AR)
 * Autoregression
-* Singular values decomposition (PCA, AE)
+* Singular values decomposition (PCA, AE, Kar-Lo)
+* QPFS model selection
 * Auto, corss-correlation (?cointegration)
 * Diagrams for ML and PLS (Before PLS)
 * Projection to latent space (and relation to PCA), canonical-correlation analysis
+* PLS-QPFS model selection
 * Higer-order SSA
 * Tensor decomposition
+* Tensor model selection
 * HOPLS
 * Granger causality test
 * Convergent cross mapping
